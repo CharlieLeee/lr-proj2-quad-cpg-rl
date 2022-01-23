@@ -2,7 +2,7 @@
 
 Author: Jiangfan Li, Shuhan He, Chengkun Li
 
-Report: https://www.overleaf.com/read/zkthgpqkjygg
+Report: [Overleaf version](https://www.overleaf.com/read/zkthgpqkjygg) | [PDF version](https://github.com/CharlieLeee/lr-proj2-quad-cpg-rl/blob/master/report.pdf)
 
 Course: Legged robots @EPFL
 
