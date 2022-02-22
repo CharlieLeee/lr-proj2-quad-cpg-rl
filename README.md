@@ -7,8 +7,8 @@ Report: [Overleaf version](https://www.overleaf.com/read/zkthgpqkjygg) | [PDF ve
 Course: Legged robots @EPFL
 
 ## Code
-- CPG code is under the tag `CPG` or can be found in the release part of this project. 
-- RL code is under the tag `RL` or can be found in the release part of this project. 
+- [CPG code](https://github.com/CharlieLeee/lr-proj2-quad-cpg-rl/tree/CPG) is under the tag `CPG` or can be found in the release part of this project. 
+- [RL code](https://github.com/CharlieLeee/lr-proj2-quad-cpg-rl/tree/RL) is under the tag `RL` or can be found in the release part of this project. 
 - Our trial to add speed command and its training code is under the branch `sh`.
 
 ## Video Demos
